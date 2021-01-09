@@ -18,7 +18,9 @@ Protein activity is a significant characteristic for recombinant proteins which 
 
 
 ## Usage
-* Run prediction-final.R to clean, analyse data and predict protein solubility
+* Run prediction-final.R to clean, analyse data and predict protein solubility with logistic regression, decision tree, SVM, Naïve Bayes, random forest
+* Run ANNs-solubility-final.ipynb to predict protein solubility with ANN
+* Run XGboost-final.ipynb to predict protein solubility with XGBoost
 
 
 ## Publication
